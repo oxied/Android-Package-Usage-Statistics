@@ -1,5 +1,7 @@
 # Android-Package-Usage-Statistics
-Helps to check time app is used by user, get know app launch count and other. Root required.
+Hack that helps to check how long time an app was used by user, helps to get know how many times app was launched and so on. Root is required.
+
+# For SDK v23 use native https://github.com/googlesamples/android-AppUsageStatistics
 
 # More info can be found here
 http://jhshi.me/2014/04/02/get-package-usage-statistics-in-android/
